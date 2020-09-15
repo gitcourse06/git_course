@@ -2,3 +2,7 @@
 .navbar {
     display: flex;
 }
+
+.header {
+    background-color: #111;
+}
