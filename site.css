@@ -6,3 +6,7 @@
 .header {
     background-color: #111;
 }
+
+.footer {
+    border: 1px solid #111;
+}
